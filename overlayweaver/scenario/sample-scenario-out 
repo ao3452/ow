@@ -1,0 +1,932 @@
+DHT configuration:
+  hostname:port:     emu1:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+A DHT started.
+DHT configuration:
+  hostname:port:     emu2:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+  initial contact:   emu1:3997
+A DHT started.
+DHT configuration:
+  hostname:port:     emu3:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+  initial contact:   emu1:3997
+A DHT started.
+DHT configuration:
+  hostname:port:     emu4:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+  initial contact:   emu1:3997
+A DHT started.
+DHT configuration:
+  hostname:port:     emu5:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+  initial contact:   emu1:3997
+A DHT started.
+DHT configuration:
+  hostname:port:     emu6:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+  initial contact:   emu1:3997
+A DHT started.
+DHT configuration:
+  hostname:port:     emu7:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+  initial contact:   emu1:3997
+A DHT started.
+DHT configuration:
+  hostname:port:     emu8:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+  initial contact:   emu1:3997
+A DHT started.
+DHT configuration:
+  hostname:port:     emu9:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+  initial contact:   emu1:3997
+A DHT started.
+DHT configuration:
+  hostname:port:     emu10:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+  initial contact:   emu1:3997
+A DHT started.
+DHT configuration:
+  hostname:port:     emu11:3997
+  transport type:    UDP
+  routing algorithm: Chord
+  routing style:     Iterative
+  directory type:    VolatileMap
+  working directory: .
+control 2 (Wed Jul 27 03:13:51 JST 2011): init emu1
+contact: emu1:3997
+  initial contact:   emu1:3997
+A DHT started.
+control 3 (Wed Jul 27 03:13:52 JST 2011): init emu1
+control 4 (Wed Jul 27 03:13:52 JST 2011): init emu1
+control 5 (Wed Jul 27 03:13:52 JST 2011): init emu1
+contact: emu1:3997
+control 6 (Wed Jul 27 03:13:52 JST 2011): init emu1
+contact: emu1:3997
+contact: emu1:3997
+control 7 (Wed Jul 27 03:13:52 JST 2011): init emu1
+contact: emu1:3997
+control 8 (Wed Jul 27 03:13:52 JST 2011): init emu1
+contact: emu1:3997
+contact: emu1:3997
+control 9 (Wed Jul 27 03:13:52 JST 2011): init emu1
+control 10 (Wed Jul 27 03:13:52 JST 2011): init emu1
+contact: emu1:3997
+contact: emu1:3997
+control 11 (Wed Jul 27 03:13:52 JST 2011): init emu1
+contact: emu1:3997
+control 1 (Wed Jul 27 03:13:52 JST 2011): server 55128
+control 1 (Wed Jul 27 03:13:53 JST 2011): status
+control 2 (Wed Jul 27 03:13:53 JST 2011): client 0 55128
+get: 1987
+get: 2469
+get: 3065
+get: 4563
+get: 5946
+get: 6084
+get: 7268
+get: 8885
+get: 9547
+get: 10075
+myID: 0 1987
+put: 1111 1987 011c945f30ce2cbafc452f39840f025693339c42
+put: 2222 2469 fea7f657f56a2a448da7d4b535ee5e279caf3d9a
+put: 3333 3065 f56d6351aa71cff0debea014d13525e42036187a
+put: 4444 4563 92f2fd99879b0c2466ab8648afb63c49032379c1
+put: 5555 5946 ab874467a7d1ff5fc71a4ade87dc0e098b458aae
+put: 6666 6084 4c1b52409cf6be3896cf163fa17b32e4da293f2e
+put: 7777 7268 501ab5444eae9ad32b562570b36ff628ec3790ce
+put: 8888 8885 0ddb5877c896f43e8734e10b001e7f1eb92889cd
+put: 9999 9547 4170ac2a2782a1516fe9e13d7322ae482c1bd594
+put: 11110 10075 53d9072a587eb2ad549401818b0c40e958dfbbb5
+1987 a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+2469 46b97e6934ff6cda7bf3475ae9287ca1602723a8
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+4563 26f0117f9c3b1e25d517f93927419493dfcad81c
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+7268 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+10075 759786cd7241031711a65070d01d6c542a704dab
+control 2 (Wed Jul 27 03:13:53 JST 2011): status
+control 3 (Wed Jul 27 03:13:53 JST 2011): client 1 55128
+get: 1987
+get: 2469
+get: 3065
+get: 4563
+get: 5946
+get: 6084
+get: 7268
+get: 8885
+get: 9547
+get: 10075
+myID: 1 2469
+control 3 (Wed Jul 27 03:13:54 JST 2011): status
+control 4 (Wed Jul 27 03:13:54 JST 2011): client 2 55128
+get: 1987
+get: 2469
+get: 3065
+get: 4563
+get: 5946
+get: 6084
+get: 7268
+get: 8885
+get: 9547
+get: 10075
+myID: 2 3065
+control 4 (Wed Jul 27 03:13:55 JST 2011): status
+control 5 (Wed Jul 27 03:13:55 JST 2011): client 3 55128
+get: 1987
+get: 2469
+get: 3065
+get: 4563
+get: 5946
+get: 6084
+get: 7268
+get: 8885
+get: 9547
+get: 10075
+myID: 3 4563
+control 5 (Wed Jul 27 03:13:56 JST 2011): status
+control 6 (Wed Jul 27 03:13:56 JST 2011): client 4 55128
+get: 1987
+get: 2469
+get: 3065
+get: 4563
+get: 5946
+get: 6084
+get: 7268
+get: 8885
+get: 9547
+get: 10075
+myID: 4 5946
+control 6 (Wed Jul 27 03:13:57 JST 2011): status
+control 7 (Wed Jul 27 03:13:57 JST 2011): client 5 55128
+get: 1987
+get: 2469
+get: 3065
+get: 4563
+get: 5946
+get: 6084
+get: 7268
+get: 8885
+get: 9547
+get: 10075
+myID: 5 6084
+control 7 (Wed Jul 27 03:13:58 JST 2011): status
+control 8 (Wed Jul 27 03:13:58 JST 2011): client 6 55128
+get: 1987
+get: 2469
+get: 3065
+get: 4563
+get: 5946
+get: 6084
+get: 7268
+get: 8885
+get: 9547
+get: 10075
+myID: 6 7268
+control 8 (Wed Jul 27 03:13:59 JST 2011): status
+control 9 (Wed Jul 27 03:13:59 JST 2011): client 7 55128
+get: 1987
+get: 2469
+get: 3065
+get: 4563
+get: 5946
+get: 6084
+get: 7268
+get: 8885
+get: 9547
+get: 10075
+myID: 7 8885
+control 9 (Wed Jul 27 03:14:00 JST 2011): status
+control 10 (Wed Jul 27 03:14:00 JST 2011): client 8 55128
+get: 1987
+get: 2469
+get: 3065
+get: 4563
+get: 5946
+get: 6084
+get: 7268
+get: 8885
+get: 9547
+get: 10075
+myID: 8 9547
+control 10 (Wed Jul 27 03:14:01 JST 2011): status
+control 11 (Wed Jul 27 03:14:01 JST 2011): client 9 55128
+get: 1987
+get: 2469
+get: 3065
+get: 4563
+get: 5946
+get: 6084
+get: 7268
+get: 8885
+get: 9547
+get: 10075
+myID: 9 10075
+control 11 (Wed Jul 27 03:14:02 JST 2011): status
+Read number: 0 Read: 2072 Total: 2072 fileSize: 2072
+msg received.9 10075
+  tag: 74
+
+2072 0 0 2
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+2072 0 0 3
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+20
+msg received.9 10075
+  tag: 74
+
+2072 0 0 4
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+2072 0 0 5
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+2072 0 0 6
+0: 0
+Read number: 1 Read: 65564 Total: 65564 fileSize: 65564
+msg received.9 10075
+  tag: 74
+
+65564 1 100 3
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+65564 1 1000 4
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+65564 1 10000 5
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+65564 1 100000 6
+1987 a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+20
+msg received.9 10075
+  tag: 74
+
+65564 1 1000000 7
+1: 1000000
+Read number: 2 Read: 1048 Total: 1048 fileSize: 1048
+msg received.9 10075
+  tag: 74
+
+1048 2 20 2
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+1048 2 200 3
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+1048 2 2000 4
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+20
+msg received.9 10075
+  tag: 74
+
+1048 2 20000 5
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+20
+msg received.9 10075
+  tag: 74
+
+1048 2 200000 6
+2: 200000
+Read number: 3 Read: 262180 Total: 262180 fileSize: 262180
+3 is pass
+Read number: 4 Read: 4128 Total: 4128 fileSize: 4128
+msg received.9 10075
+  tag: 74
+
+4128 4 40 2
+1987 a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+20
+msg received.9 10075
+  tag: 74
+
+4128 4 400 3
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+4128 4 4000 4
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+4128 4 400000 6
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+20
+msg received.9 10075
+  tag: 74
+
+4128 4 4000000 7
+7268 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+20
+msg received.9 10075
+  tag: 74
+
+4128 4 40000000 8
+4: 40000000
+Read number: 5 Read: 4124 Total: 4124 fileSize: 4124
+msg received.9 10075
+  tag: 74
+
+4124 5 50 2
+4563 26f0117f9c3b1e25d517f93927419493dfcad81c
+20
+msg received.9 10075
+  tag: 74
+
+4124 5 5000 4
+4563 26f0117f9c3b1e25d517f93927419493dfcad81c
+20
+msg received.9 10075
+  tag: 74
+
+4124 5 50000 5
+7268 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+20
+msg received.9 10075
+  tag: 74
+
+4124 5 500000 6
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+4124 5 5000000 7
+5: 5000000
+Read number: 6 Read: 65548 Total: 65548 fileSize: 65548
+msg received.9 10075
+  tag: 74
+
+65548 6 60 2
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+65548 6 600 3
+6: 600
+Read number: 7 Read: 4108 Total: 4108 fileSize: 4108
+msg received.9 10075
+  tag: 74
+
+4108 7 70 2
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+4108 7 700 3
+7: 700
+Read number: 8 Read: 2084 Total: 2084 fileSize: 2084
+msg received.9 10075
+  tag: 74
+
+2084 8 80 2
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+2084 8 800 3
+1987 a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+20
+msg received.9 10075
+  tag: 74
+
+2084 8 80000 5
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+2084 8 800000 6
+4563 26f0117f9c3b1e25d517f93927419493dfcad81c
+20
+msg received.9 10075
+  tag: 74
+
+2084 8 8000000 7
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+2084 8 80000000 8
+2469 46b97e6934ff6cda7bf3475ae9287ca1602723a8
+20
+msg received.9 10075
+  tag: 74
+
+2084 8 800000000 9
+8: 800000000
+Read number: 9 Read: 2084 Total: 2084 fileSize: 2084
+msg received.9 10075
+  tag: 74
+
+2084 9 90 2
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+2084 9 900 3
+7268 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+20
+msg received.9 10075
+  tag: 74
+
+2084 9 9000 4
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+2084 9 90000 5
+1987 a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+20
+msg received.9 10075
+  tag: 74
+
+2084 9 900000 6
+4563 26f0117f9c3b1e25d517f93927419493dfcad81c
+20
+msg received.9 10075
+  tag: 74
+
+2084 9 9000000 7
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+2084 9 90000000 8
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+2084 9 900000000 9
+9: 900000000
+Read number: 10 Read: 32792 Total: 32792 fileSize: 32792
+msg received.9 10075
+  tag: 74
+
+32792 10 100 2
+2469 46b97e6934ff6cda7bf3475ae9287ca1602723a8
+20
+msg received.9 10075
+  tag: 74
+
+32792 10 1000 3
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+32792 10 100000 5
+1987 a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+20
+msg received.9 10075
+  tag: 74
+
+32792 10 1000000 6
+10: 1000000
+Read number: 11 Read: 2064 Total: 2064 fileSize: 2064
+msg received.9 10075
+  tag: 74
+
+2064 11 110 2
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+20
+msg received.9 10075
+  tag: 74
+
+2064 11 1100 3
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+2064 11 11000 4
+11: 11000
+Read number: 12 Read: 1044 Total: 1044 fileSize: 1044
+msg received.9 10075
+  tag: 74
+
+1044 12 120 2
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+20
+msg received.9 10075
+  tag: 74
+
+1044 12 1200 3
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+1044 12 120000 5
+12: 120000
+Read number: 13 Read: 131104 Total: 131104 fileSize: 131104
+13 is pass
+Read number: 14 Read: 8212 Total: 8212 fileSize: 8212
+msg received.9 10075
+  tag: 74
+
+8212 14 140 2
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+8212 14 1400 3
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+8212 14 14000 4
+1987 a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+20
+msg received.9 10075
+  tag: 74
+
+8212 14 140000 5
+14: 140000
+Read number: 15 Read: 4132 Total: 4132 fileSize: 4132
+msg received.9 10075
+  tag: 74
+
+4132 15 150 2
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+4132 15 15000 4
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+20
+msg received.9 10075
+  tag: 74
+
+4132 15 150000 5
+7268 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+20
+msg received.9 10075
+  tag: 74
+
+4132 15 1500000 6
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+4132 15 15000000 7
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+4132 15 1500000000 9
+15: 1500000000
+Read number: 16 Read: 131096 Total: 131096 fileSize: 131096
+16 is pass
+Read number: 17 Read: 8228 Total: 8228 fileSize: 8228
+msg received.9 10075
+  tag: 74
+
+8228 17 170 2
+2469 46b97e6934ff6cda7bf3475ae9287ca1602723a8
+20
+msg received.9 10075
+  tag: 74
+
+8228 17 1700 3
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+8228 17 17000 4
+7268 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+20
+msg received.9 10075
+  tag: 74
+
+8228 17 170000 5
+4563 26f0117f9c3b1e25d517f93927419493dfcad81c
+20
+msg received.9 10075
+  tag: 74
+
+8228 17 1700000 6
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+8228 17 17000000 7
+4563 26f0117f9c3b1e25d517f93927419493dfcad81c
+20
+msg received.9 10075
+  tag: 74
+
+8228 17 170000000 8
+7268 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+20
+msg received.9 10075
+  tag: 74
+
+8228 17 1700000000 9
+17: 1700000000
+Read number: 18 Read: 16400 Total: 16400 fileSize: 16400
+msg received.9 10075
+  tag: 74
+
+16400 18 180 2
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+16400 18 1800 3
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+20
+msg received.9 10075
+  tag: 74
+
+16400 18 18000 4
+18: 18000
+Read number: 19 Read: 131088 Total: 131088 fileSize: 131088
+19 is pass
+Read number: 20 Read: 8220 Total: 8220 fileSize: 8220
+msg received.9 10075
+  tag: 74
+
+8220 20 2000 3
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+8220 20 20000 4
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+8220 20 200000 5
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+20
+msg received.9 10075
+  tag: 74
+
+8220 20 2000000 6
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+8220 20 20000000 7
+20: 20000000
+Read number: 21 Read: 32788 Total: 32788 fileSize: 32788
+msg received.9 10075
+  tag: 74
+
+32788 21 210 2
+1987 a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+20
+msg received.9 10075
+  tag: 74
+
+32788 21 2100 3
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+32788 21 21000 4
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+32788 21 210000 5
+21: 210000
+Read number: 22 Read: 8228 Total: 8228 fileSize: 8228
+msg received.9 10075
+  tag: 74
+
+8228 22 220 2
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+8228 22 2200 3
+6084 ecc8960598eece6384e562b381c74adbdf84c291
+20
+msg received.9 10075
+  tag: 74
+
+8228 22 22000 4
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+8228 22 220000 5
+2469 46b97e6934ff6cda7bf3475ae9287ca1602723a8
+20
+msg received.9 10075
+  tag: 74
+
+8228 22 2200000 6
+4563 26f0117f9c3b1e25d517f93927419493dfcad81c
+20
+msg received.9 10075
+  tag: 74
+
+8228 22 22000000 7
+5946 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+20
+msg received.9 10075
+  tag: 74
+
+8228 22 220000000 8
+7268 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+20
+msg received.9 10075
+  tag: 74
+
+8228 22 -2094967296 9
+22: -2094967296
+Read number: 23 Read: 8208 Total: 8208 fileSize: 8208
+msg received.9 10075
+  tag: 74
+
+8208 23 2300 3
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+8208 23 23000 4
+23: 23000
+Read number: 24 Read: 2072 Total: 2072 fileSize: 2072
+msg received.9 10075
+  tag: 74
+
+2072 24 240 2
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+2072 24 2400 3
+7268 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+20
+msg received.9 10075
+  tag: 74
+
+2072 24 24000 4
+3065 aa5006192519e484908b7cb7664c010210f60ba0
+20
+msg received.9 10075
+  tag: 74
+
+2072 24 240000 5
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+2072 24 2400000 6
+24: 2400000
+Read number: 25 Read: 8208 Total: 8208 fileSize: 8208
+msg received.9 10075
+  tag: 74
+
+8208 25 250 2
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+8208 25 2500 3
+1987 a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+20
+msg received.9 10075
+  tag: 74
+
+8208 25 25000 4
+25: 25000
+Read number: 26 Read: 16416 Total: 16416 fileSize: 16416
+msg received.9 10075
+  tag: 74
+
+16416 26 260 2
+2469 46b97e6934ff6cda7bf3475ae9287ca1602723a8
+20
+msg received.9 10075
+  tag: 74
+
+16416 26 2600 3
+8885 2e55fe097079976d675ed924710a62d294a7f10a
+20
+msg received.9 10075
+  tag: 74
+
+16416 26 260000 5
+1987 a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+20
+msg received.9 10075
+  tag: 74
+
+16416 26 2600000 6
+9547 94fe322414f7c75cf23f427792e57379c7dbf3bd
+20
+msg received.9 10075
+  tag: 74
+
+16416 26 26000000 7
+7268 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+20
+msg received.9 10075
+  tag: 74
+
+16416 26 260000000 8
+26: 260000000

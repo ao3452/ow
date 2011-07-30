@@ -1,0 +1,69 @@
+
+# Invokes an Overlay Visualizer and 20 instances of DHT shell
+
+timeoffset 1000
+
+# invokes the 1st DHT shell
+class ow.tool.dhtshell.Main
+#class ow.tool.mcastshell.Main
+arg -i 2af80fdc1aabc5dc9e06619e769a1d7d5a04c30f
+schedule 2000 invoke
+
+
+# invokes 10 DHT shells
+arg -i a93cf93db3ae6d491e1b4fc8c4e1d869daa36a33
+schedule 2300 invoke
+arg -i 46b97e6934ff6cda7bf3475ae9287ca1602723a8
+schedule 2600 invoke
+arg -i aa5006192519e484908b7cb7664c010210f60ba0
+schedule 2900 invoke
+arg -i 26f0117f9c3b1e25d517f93927419493dfcad81c
+schedule 3200 invoke
+arg -i 70b24f0038acad0bcb01e2bd8b1a7bf384fc8373
+schedule 3500 invoke
+arg -i ecc8960598eece6384e562b381c74adbdf84c291
+schedule 3800 invoke
+arg -i 9f8daa49d54f9d2103294d20d36eabc9cfeb2376
+schedule 4100 invoke
+arg -i 2e55fe097079976d675ed924710a62d294a7f10a
+schedule 4400 invoke
+arg -i 94fe322414f7c75cf23f427792e57379c7dbf3bd
+schedule 4700 invoke
+arg -i 759786cd7241031711a65070d01d6c542a704dab
+schedule 5000 invoke
+
+schedule 5000 control 1 init emu0
+schedule 5100 control 2 init emu0
+schedule 5200 control 3 init emu0
+schedule 5300 control 4 init emu0
+schedule 5400 control 5 init emu0
+schedule 5500 control 6 init emu0
+schedule 5600 control 7 init emu0
+schedule 5700 control 8 init emu0
+schedule 5800 control 9 init emu0
+schedule 5900 control 10 init emu0
+
+schedule 6000 control 0 server
+#schedule 6300 control 0 status
+
+# emu1, emu13, emu6 and emu12 periodically keep querying
+schedule 6300 control 1 client 0
+#schedule 6500 control 1 status
+schedule 7000 control 2 client 1
+#schedule 7500 control 2 status
+schedule 8000 control 3 client 2
+#schedule 8500 control 3 status 
+schedule 9000 control 4 client 3
+#schedule 9500 control 4 status
+schedule 10000 control 5 client 4
+#schedule 10500 control 5 status
+schedule 11000 control 6 client 5
+#schedule 11500 control 6 status
+schedule 12000 control 7 client 6
+#schedule 12500 control 7 status
+schedule 13000 control 8 client 7
+#schedule 13500 control 8 status
+schedule 14000 control 9 client 8
+#schedule 14500 control 9 status
+schedule 15000 control 10 client 9
+#schedule 15500 control 10 status
